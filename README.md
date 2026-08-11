@@ -4,6 +4,11 @@ An interactive **RoomOS In-Room Control & Kiosk Management Macro** designed for 
 
 This macro provides a multi-page UI panel on the Touch 10 / Navigator / Desk Pro display to configure and manage Web Engine kiosk settings dynamically, switch between custom URLs or predefined web applications, and enforce hardware/security behaviors in real time.
 
+<img width="604" height="268" alt="image" src="https://github.com/user-attachments/assets/aedf6629-7f4d-4965-bdc8-79e56e71b89e" />
+<img width="577" height="303" alt="image" src="https://github.com/user-attachments/assets/6cf4bbf4-8ada-46c9-9526-90c9dde7b935" />
+<img width="578" height="407" alt="image" src="https://github.com/user-attachments/assets/0fb70ba6-98df-43d0-84a0-2c8102a740e3" />
+
+
 ---
 
 ## 🌟 Features
